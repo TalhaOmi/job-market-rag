@@ -4,7 +4,7 @@ from pathlib import Path
 
 import requests
 
-BOARDS = ["databricks", "cardata"]
+BOARDS = ["databricks", "cardata", "guidepoint", "grafanalabs"]
 BASE_URL = "https://boards-api.greenhouse.io/v1/boards/{token}/jobs"
 
 
